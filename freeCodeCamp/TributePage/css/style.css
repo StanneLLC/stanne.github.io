@@ -45,6 +45,12 @@ h2{
 .bknd{
     background: #f0ead2;
   }
+
+  .pic{
+    max-width: 75%;
+    height: auto;
+    width: auto;
+  }
   
 .caption{
   text-align: center;
